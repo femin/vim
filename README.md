@@ -1,0 +1,2 @@
+# vim
+Sync my vimrc
